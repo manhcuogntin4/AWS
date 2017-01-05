@@ -7,3 +7,7 @@ Ctrl A+D to run on background
 Ctrl D to logout
 screen -r to retreive screen
 Some commands for working with AWS 
+
+
+install Caffe:
+https://github.com/BVLC/caffe/wiki/Ubuntu-16.04-or-15.10-Installation-Guide
